@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on data analytics project
-- 📫 How to reach me via linkdin https://www.linkedin.com/in/virendra-kashyap-429b30247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me via linkdin https://www.linkedin.com/in/virendra-kashyap-429b30247
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
