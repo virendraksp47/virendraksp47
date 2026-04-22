@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @virendrqksp47
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on data analytics project
-- 📫 How to reach me via linkdin https://www.linkedin.com/in/virendra-kashyap-429b30247
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-virendrqksp47/virendrqksp47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an aspiring Data Scientist and Machine Learning Engineer passionate about working with data and building intelligent solutions. Currently learning Python, data analysis, and ML algorithms while working on projects to strengthen my practical skills.
