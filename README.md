@@ -1,4 +1,11 @@
+# 💫 Hi 👋, I'm Virendra Kashyap
+**Aspiring Data Scientist || ML Engineer**
 
+Email Me 👉 ✉️ **virendrarex471@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 😄 **Pronouns:** Virendra Kashyap
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virendraksp47@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virendrarex471@gmail.com) 
 
